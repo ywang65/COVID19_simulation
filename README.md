@@ -16,4 +16,6 @@
 4. Heterogeneity among people. It may take more or less days for one individual to recover from the COVID-19. And this may also depend on one's health condition.\
 ...
 ## Simulation results using 1000 families (~3000 people)
+![With social distancing](/photo/no_social_distancing.png)
+![Without social distancing](/photo/social_distancing.png)
 
