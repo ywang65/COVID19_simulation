@@ -1,4 +1,4 @@
-# COVID19_simulation
+# COVID19 simulation
 ## Hypothesis
 1. The number of strangers (e.g. grocery workers) a person will meet in a single day is a constant
 2. Social connections will be divided into 3 parts: family, close relationship (such as friends) and strangers. The possibility for one to meet with those that in three groups is different.\
